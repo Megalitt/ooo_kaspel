@@ -1,0 +1,13 @@
+.posts {
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 700;
+}
+.posts img:hover {
+  transform: scale(1.3);
+}
+@media (max-width: 520px){
+  .pages {
+    margin: 16px 20px;
+  }
+}
